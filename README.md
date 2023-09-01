@@ -216,5 +216,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/sujal-sunil-a-a75231115/
-[product-screenshot]: https://github.com/sujalamati/SnakeGame/images/Screenshot (513).png
+[product-screenshot]: https://github.com/sujalamati/SnakeGame/blob/master/images/Screenshot%20(513).png
 
